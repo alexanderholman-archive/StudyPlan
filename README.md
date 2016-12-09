@@ -4,104 +4,105 @@
 | Course       |                                                                                                   | Complete | 
 |-------------:|---------------------------------------------------------------------------------------------------|:--------:| 
 | 1.00         | [Introduction to Computers and Engineering Problem Solving](https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012)                                         | [ ]      | 
-| 1.017        | Computing and Data Analysis for Environmental Applications                                        | [ ]      | 
-| 2.086        | Numerical Computation for Mechanical Engineers (Fall 2014)                                        | [ ]      | 
-| 2.086        | Numerical Computation for Mechanical Engineers (Spring 2013)                                      | [ ]      | 
-| 2.993J       | Introduction to Numerical Analysis for Engineering (13.002J)                                      | [ ]      | 
-| 4.500        | Introduction to Design Computing                                                                  | [ ]      | 
-| 6.00SC       | Introduction to Computer Science and Programming                                                  | [ ]      | 
-| 6.00         | Introduction to Computer Science and Programming                                                  | [ ]      | 
-| 6.01SC       | Introduction to Electrical Engineering and Computer Science I                                     | [ ]      | 
-| 6.001        | Structure and Interpretation of Computer Programs                                                 | [ ]      | 
-| 6.004        | Computation Structures                                                                            | [ ]      | 
-| 6.005        | Elements of Software Construction (Fall 2011)                                                     | [ ]      | 
-| 6.005        | Elements of Software Construction (Fall 2008)                                                     | [ ]      | 
-| 6.006        | Introduction to Algorithms (Fall 2011)                                                            | [ ]      | 
-| 6.006        | Introduction to Algorithms (Spring 2008)                                                          | [ ]      | 
-| 6.012        | Microelectronic Devices and Circuits (Fall 2009)                                                  | [ ]      | 
-| 6.012        | Microelectronic Devices and Circuits (Spring 2009)                                                | [ ]      | 
-| 6.012        | Microelectronic Devices and Circuits (Fall 2005)                                                  | [ ]      | 
-| 6.02         | Introduction to EECS II: Digital Communication Systems                                            | [ ]      | 
-| 6.033        | Computer System Engineering                                                                       | [ ]      | 
-| 6.034        | Artificial Intelligence (Fall 2010)                                                               | [ ]      | 
-| 6.034        | Artificial Intelligence (Spring 2005)                                                             | [ ]      | 
-| 6.035        | Computer Language Engineering                                                                     | [ ]      | 
-| 6.035        | Computer Language Engineering (SMA 5502)                                                          | [ ]      | 
-| 6.042J       | Mathematics for Computer Science (Spring 2015)                                                    | [ ]      | 
-| 6.042J       | Mathematics for Computer Science (Fall 2010)                                                      | [ ]      | 
-| 6.042J       | Mathematics for Computer Science (Fall 2005)                                                      | [ ]      | 
-| 6.045J       | Automata, Computability, and Complexity                                                           | [ ]      | 
-| 6.046J       | Design and Analysis of Algorithms (Spring 2015)                                                   | [ ]      | 
-| 6.046J       | Design and Analysis of Algorithms (Spring 2012)                                                   | [ ]      | 
-| 6.046J       | Introduction to Algorithms (SMA 5503)                                                             | [ ]      | 
-| 6.050J       | Information and Entropy                                                                           | [ ]      | 
-| 6.055J       | The Art of Approximation in Science and Engineering                                               | [ ]      | 
-| 6.08         | Great Ideas in Theoretical Computer Science                                                       | [ ]      | 
-| 6.087        | Practical Programming in C                                                                        | [ ]      | 
-| 6.088        | Introduction to C Memory Management and C++ Object-Oriented Programming                           | [ ]      | 
-| 6.09         | Building Programming Experience: A Lead-In to 6.001                                               | [ ]      | 
-| 6.092        | Introduction to Programming in Java                                                               | [ ]      | 
-| 6.092        | Java Preparation for 6.170                                                                        | [ ]      | 
-| 6.092        | Bioinformatics and Proteomics                                                                     | [ ]      | 
-| 6.094        | Introduction to MATLAB                                                                            | [ ]      | 
-| 6.096        | Introduction to C++                                                                               | [ ]      | 
-| 6.096        | Algorithms for Computational Biology                                                              | [ ]      | 
-| 6.111        | Introductory Digital Systems Laboratory (Spring 2006)                                             | [ ]      | 
-| 6.111        | Introductory Digital Systems Laboratory (Fall 2002)                                               | [ ]      | 
-| 6.17         | Software Studio                                                                                   | [ ]      | 
-| 6.17         | Laboratory in Software Engineering                                                                | [ ]      | 
-| 6.171        | Software Engineering for Web Applications                                                         | [ ]      | 
-| 6.172        | Performance Engineering of Software Systems                                                       | [ ]      | 
-| 6.186        | Mobile Autonomous Systems Laboratory                                                              | [ ]      | 
-| 6.189        | A Gentle Introduction to Programming Using Python (January IAP 2011)                              | [ ]      | 
-| 6.189        | A Gentle Introduction to Programming Using Python (January IAP 2008)                              | [ ]      | 
-| 6.189        | Multicore Programming Primer                                                                      | [ ]      | 
-| 6.27         | Autonomous Robot Design Competition                                                               | [ ]      | 
-| 6.37         | The Battlecode Programming Competition                                                            | [ ]      | 
-| 6.37         | Robocraft Programming Competition                                                                 | [ ]      | 
-| 6.801        | Machine Vision                                                                                    | [ ]      | 
-| 6.803        | The Human Intelligence Enterprise (Spring 2006)                                                   | [ ]      | 
-| 6.803        | The Human Intelligence Enterprise (Spring 2002)                                                   | [ ]      | 
-| 6.805        | Ethics and the Law on the Electronic Frontier                                                     | [ ]      | 
-| 6.811        | Principles and Practice of Assistive Technology                                                   | [ ]      | 
-| 6.82         | Fundamentals of Program Analysis                                                                  | [ ]      | 
-| 6.837        | Computer Graphics                                                                                 | [ ]      | 
-| 6.911        | Transcribing Prosodic Structure of Spoken Utterances with ToBI                                    | [ ]      | 
-| 6.S096       | Effective Programming in C and C++                                                                | [ ]      | 
-| 6.S096       | Introduction to C and C++                                                                         | [ ]      | 
-| 7.349        | Biological Computing: At the Crossroads of Engineering and Science                                | [ ]      | 
-| 12.01        | Computational Methods of Scientific Programming                                                   | [ ]      | 
-| 12.409       | Hands-On Astronomy: Observing Stars and Planets                                                   | [ ]      | 
-| 14.15J       | Networks                                                                                          | [ ]      | 
-| 15.075J      | Statistical Thinking and Data Analysis                                                            | [ ]      | 
-| 15.565J      | Integrating eSystems & Global Information Systems                                                 | [ ]      | 
-| 16.36        | Communication Systems Engineering                                                                 | [ ]      | 
-| 16.4         | Human Factors Engineering                                                                         | [ ]      | 
-| 16.41        | Principles of Autonomy and Decision Making                                                        | [ ]      | 
-| 16.621       | Experimental Projects I                                                                           | [ ]      | 
-| 16.622       | Experimental Projects II                                                                          | [ ]      | 
-| 17.914       | International Politics in the New Century - via Simulation, Interactive Gaming, and 'Edutainment' | [ ]      | 
-| 18.33        | Introduction to Numerical Analysis                                                                | [ ]      | 
-| 18.413       | Error-Correcting Codes Laboratory                                                                 | [ ]      | 
-| 18.433       | Combinatorial Optimization                                                                        | [ ]      | 
-| 18.S997      | Introduction To MATLAB Programming                                                                | [ ]      | 
-| 20.18        | Biological Engineering Programming                                                                | [ ]      | 
-| 24.09        | Minds and Machines                                                                                | [ ]      | 
-| 24.242       | Logic II                                                                                          | [ ]      | 
-| ES.258       | Gödel, Escher, Bach                                                                               | [ ]      | 
-| ES.268       | The Mathematics in Toys and Games                                                                 | [ ]      | 
-| ES.293       | Lego Robotics                                                                                     | [ ]      | 
-| 21M.380      | Music and Technology: Live Electronics Performance Practices                                      | [ ]      | 
-| 21M.380      | Music and Technology: Algorithmic and Generative Music                                            | [ ]      | 
-| 21W.789      | Communicating with Mobile Technology                                                              | [ ]      | 
-| CMS.611J     | Creating Video Games                                                                              | [ ]      | 
-| CMS.633      | Digital Humanities                                                                                | [ ]      | 
-| MAS.450      | Holographic Imaging                                                                               | [ ]      | 
-| Supplemental | Introduction to MATLAB                                                                            | [ ]      | 
-| Supplemental | Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler                        | [ ]      | 
-| Supplemental | Principles of Computer System Design: An Introduction                                             | [ ]      | 
-| Supplemental | How to Process, Analyze and Visualize Data                                                        | [ ]      | 
-| Supplemental | D4M: Signal Processing on Databases                                                               | [ ]      | 
-| STS.035      | The History of Computing                                                                          | [ ]      | 
-| STS.067      | Scientific Visualization across Disciplines: A Critical Introduction                              | [ ]      | 
+| 1.017        | [Computing and Data Analysis for Environmental Applications](https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003)                                        | [ ]      | 
+| 2.086        | [Numerical Computation for Mechanical Engineers (Fall 2014)](https://ocw.mit.edu/courses/mechanical-engineering/2-086-numerical-computation-for-mechanical-engineers-fall-2014)                                        | [ ]      | 
+| 2.086        | [Numerical Computation for Mechanical Engineers (Spring 2013)](https://ocw.mit.edu/courses/mechanical-engineering/2-086-numerical-computation-for-mechanical-engineers-spring-2013)                                      | [ ]      | 
+| 2.993J       | [Introduction to Numerical Analysis for Engineering (13.002J)](https://ocw.mit.edu/courses/mechanical-engineering/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005)                                      | [ ]      | 
+| 4.500        | [Introduction to Design Computing](https://ocw.mit.edu/courses/architecture/4-500-introduction-to-design-computing-fall-2008)                                                                  | [ ]      | 
+| 6.00SC       | [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011)                                                  | [ ]      | 
+| 6.00         | [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008)                                                  | [ ]      | 
+| 6.01SC       | [Introduction to Electrical Engineering and Computer Science I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011)                                     | [ ]      | 
+| 6.001        | [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005)                                                 | [ ]      | 
+| 6.004        | [Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009)                                                                            | [ ]      | 
+| 6.005        | [Elements of Software Construction (Fall 2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011)                                                     | [ ]      | 
+| 6.005        | [Elements of Software Construction (Fall 2008)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2008)                                                     | [ ]      | 
+| 6.006        | [Introduction to Algorithms (Fall 2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011)                                                            | [ ]      | 
+| 6.006        | [Introduction to Algorithms (Spring 2008)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008)                                                          | [ ]      | 
+| 6.012        | [Microelectronic Devices and Circuits (Fall 2009)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-fall-2009)                                                  | [ ]      | 
+| 6.012        | [Microelectronic Devices and Circuits (Spring 2009)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-spring-2009)                                                | [ ]      | 
+| 6.012        | [Microelectronic Devices and Circuits (Fall 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-fall-2005)                                                  | [ ]      | 
+| 6.02         | [Introduction to EECS II: Digital Communication Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012)                                            | [ ]      | 
+| 6.033        | [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009)                                                                       | [ ]      | 
+| 6.034        | [Artificial Intelligence (Fall 2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010)                                                               | [ ]      | 
+| 6.034        | [Artificial Intelligence (Spring 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-spring-2005)                                                             | [ ]      | 
+| 6.035        | [Computer Language Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010)                                                                     | [ ]      | 
+| 6.035        | [Computer Language Engineering (SMA 5502)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005)                                                          | [ ]      | 
+| 6.042J       | [Mathematics for Computer Science (Spring 2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015)                                                    | [ ]      | 
+| 6.042J       | [Mathematics for Computer Science (Fall 2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010)                                                      | [ ]      | 
+| 6.042J       | [Mathematics for Computer Science (Fall 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005)                                                      | [ ]      | 
+| 6.045J       | [Automata, Computability, and Complexity](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011)                                                           | [ ]      | 
+| 6.046J       | [Design and Analysis of Algorithms (Spring 2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015)                                                   | [ ]      | 
+| 6.046J       | [Design and Analysis of Algorithms (Spring 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012)                                                   | [ ]      | 
+| 6.046J       | [Introduction to Algorithms (SMA 5503)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005)                                                             | [ ]      | 
+| 6.050J       | [Information and Entropy](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008)                                                                           | [ ]      | 
+| 6.055J       | [The Art of Approximation in Science and Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008)                                               | [ ]      | 
+| 6.08         | [Great Ideas in Theoretical Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-080-great-ideas-in-theoretical-computer-science-spring-2008)                                                       | [ ]      | 
+| 6.087        | [Practical Programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010)                                                                        | [ ]      | 
+| 6.088        | [Introduction to C Memory Management and C++ Object-Oriented Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010)                           | [ ]      | 
+| 6.09         | [Building Programming Experience: A Lead-In to 6.001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005)                                               | [ ]      | 
+| 6.092        | [Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010)                                                               | [ ]      | 
+| 6.092        | [Java Preparation for 6.170](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006)                                                                        | [ ]      | 
+| 6.092        | [Bioinformatics and Proteomics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-bioinformatics-and-proteomics-january-iap-2005)                                                                     | [ ]      | 
+| 6.094        | [Introduction to MATLAB](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-094-introduction-to-matlab-january-iap-2010)                                                                            | [ ]      | 
+| 6.096        | [Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011)                                                                               | [ ]      | 
+| 6.096        | [Algorithms for Computational Biology](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005)                                                              | [ ]      | 
+| 6.111        | [Introductory Digital Systems Laboratory (Spring 2006)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006)                                             | [ ]      | 
+| 6.111        | [Introductory Digital Systems Laboratory (Fall 2002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-fall-2002)                                               | [ ]      | 
+| 6.17         | [Software Studio](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013)                                                                                   | [ ]      | 
+| 6.17         | [Laboratory in Software Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-laboratory-in-software-engineering-fall-2005)                                                                | [ ]      | 
+| 6.171        | [Software Engineering for Web Applications](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-171-software-engineering-for-web-applications-fall-2003)                                                         | [ ]      | 
+| 6.172        | [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010)                                                       | [ ]      | 
+| 6.186        | [Mobile Autonomous Systems Laboratory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-186-mobile-autonomous-systems-laboratory-january-iap-2005)                                                              | [ ]      | 
+| 6.189        | [A Gentle Introduction to Programming Using Python (January IAP 2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011)                              | [ ]      | 
+| 6.189        | [A Gentle Introduction to Programming Using Python (January IAP 2008)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008)                              | [ ]      | 
+| 6.189        | [Multicore Programming Primer](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007)                                                                      | [ ]      | 
+| 6.27         | [Autonomous Robot Design Competition](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-270-autonomous-robot-design-competition-january-iap-2005)                                                               | [ ]      | 
+| 6.37         | [The Battlecode Programming Competition](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-370-the-battlecode-programming-competition-january-iap-2013)                                                            | [ ]      | 
+| 6.37         | [Robocraft Programming Competition](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-370-robocraft-programming-competition-january-iap-2005)                                                                 | [ ]      | 
+| 6.801        | [Machine Vision](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2004)                                                                                    | [ ]      | 
+| 6.803        | [The Human Intelligence Enterprise (Spring 2006)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-803-the-human-intelligence-enterprise-spring-2006)                                                   | [ ]      | 
+| 6.803        | [The Human Intelligence Enterprise (Spring 2002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-803-the-human-intelligence-enterprise-spring-2002)                                                   | [ ]      | 
+| 6.805        | [Ethics and the Law on the Electronic Frontier](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005)                                                     | [ ]      | 
+| 6.811        | [Principles and Practice of Assistive Technology](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-811-principles-and-practice-of-assistive-technology-fall-2014)                                                   | [ ]      | 
+| 6.82         | [Fundamentals of Program Analysis](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-820-fundamentals-of-program-analysis-fall-2015)                                                                  | [ ]      | 
+| 6.837        | [Computer Graphics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012)                                                                                 | [ ]      | 
+| 6.911        | [Transcribing Prosodic Structure of Spoken Utterances with ToBI](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006)                                    | [ ]      | 
+| 6.S096       | [Effective Programming in C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014)                                                                | [ ]      | 
+| 6.S096       | [Introduction to C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013)                                                                         | [ ]      | 
+| 7.349        | [Biological Computing: At the Crossroads of Engineering and Science](https://ocw.mit.edu/courses/biology/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005)                                | [ ]      | 
+| 12.01        | [Computational Methods of Scientific Programming](https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-010-computational-methods-of-scientific-programming-fall-2011)                                                   | [ ]      | 
+| 12.409       | [Hands-On Astronomy: Observing Stars and Planets](https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002)                                                   | [ ]      | 
+| 14.15J       | [Networks](https://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009)                                                                                          | [ ]      | 
+| 15.075J      | [Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/sloan-school-of-management/15-075j-statistical-thinking-and-data-analysis-fall-2011)                                                            | [ ]      | 
+| 15.565J      | [Integrating eSystems & Global Information Systems](https://ocw.mit.edu/courses/sloan-school-of-management/15-565j-integrating-esystems-global-information-systems-spring-2002)                                                 | [ ]      | 
+| 16.36        | [Communication Systems Engineering](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-36-communication-systems-engineering-spring-2009)                                                                 | [ ]      | 
+| 16.4         | [Human Factors Engineering](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-400-human-factors-engineering-fall-2011)                                                                         | [ ]      | 
+| 16.41        | [Principles of Autonomy and Decision Making](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-410-principles-of-autonomy-and-decision-making-fall-2010)                                                        | [ ]      | 
+| 16.621       | [Experimental Projects I](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-621-experimental-projects-i-spring-2003)                                                                           | [ ]      | 
+| 16.622       | [Experimental Projects II](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-622-experimental-projects-ii-fall-2003)                                                                          | [ ]      | 
+| 17.914       | [International Politics in the New Century - via Simulation, Interactive Gaming, and 'Edutainment'](https://ocw.mit.edu/courses/political-science/17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005) | [ ]      | 
+| 18.33        | [Introduction to Numerical Analysis](https://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2004)                                                                | [ ]      | 
+| 18.413       | [Error-Correcting Codes Laboratory](https://ocw.mit.edu/courses/mathematics/18-413-error-correcting-codes-laboratory-spring-2004)                                                                 | [ ]      | 
+| 18.433       | [Combinatorial Optimization](https://ocw.mit.edu/courses/mathematics/18-433-combinatorial-optimization-fall-2003)                                                                        | [ ]      | 
+| 18.S096      | [Topics in Mathematics of Data Science](Topics in Mathematics of Data Science)                                                                | [ ]      | 
+| 18.S997      | [Introduction To MATLAB Programming](https://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011)                                                                | [ ]      | 
+| 20.18        | [Biological Engineering Programming](https://ocw.mit.edu/courses/biological-engineering/20-180-biological-engineering-programming-spring-2006)                                                                | [ ]      | 
+| 24.09        | [Minds and Machines](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-09-minds-and-machines-fall-2011)                                                                                | [ ]      | 
+| 24.242       | [Logic II](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-242-logic-ii-spring-2004)                                                                                          | [ ]      | 
+| ES.258       | [Gödel, Escher, Bach](https://ocw.mit.edu/courses/experimental-study-group/es-258-goedel-escher-bach-spring-2007)                                                                               | [ ]      | 
+| ES.268       | [The Mathematics in Toys and Games](https://ocw.mit.edu/courses/experimental-study-group/es-268-the-mathematics-in-toys-and-games-spring-2010)                                                                 | [ ]      | 
+| ES.293       | [Lego Robotics](https://ocw.mit.edu/courses/experimental-study-group/es-293-lego-robotics-spring-2007)                                                                                     | [ ]      | 
+| 21M.380      | [Music and Technology: Live Electronics Performance Practices](https://ocw.mit.edu/courses/music-and-theater-arts/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011)                                      | [ ]      | 
+| 21M.380      | [Music and Technology: Algorithmic and Generative Music](https://ocw.mit.edu/courses/music-and-theater-arts/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010)                                            | [ ]      | 
+| 21W.789      | [Communicating with Mobile Technology](https://ocw.mit.edu/courses/comparative-media-studies-writing/21w-789-communicating-with-mobile-technology-spring-2011)                                                              | [ ]      | 
+| CMS.611J     | [Creating Video Games](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014)                                                                              | [ ]      | 
+| CMS.633      | [Digital Humanities](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-633-digital-humanities-spring-2015)                                                                                | [ ]      | 
+| MAS.450      | [Holographic Imaging](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-450-holographic-imaging-spring-2003)                                                                               | [ ]      | 
+| Supplemental | [Introduction to MATLAB](https://ocw.mit.edu/resources/res-18-002-introduction-to-matlab-spring-2008)                                                                            | [ ]      | 
+| Supplemental | [Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015)                        | [ ]      | 
+| Supplemental | [Principles of Computer System Design: An Introduction](https://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009)                                             | [ ]      | 
+| Supplemental | [How to Process, Analyze and Visualize Data](https://ocw.mit.edu/resources/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012)                                                        | [ ]      | 
+| Supplemental | [D4M: Signal Processing on Databases](https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012)                                                               | [ ]      | 
+| STS.035      | [The History of Computing](https://ocw.mit.edu/courses/science-technology-and-society/sts-035-the-history-of-computing-spring-2004)                                                                          | [ ]      | 
+| STS.067      | [Scientific Visualization across Disciplines: A Critical Introduction](https://ocw.mit.edu/courses/science-technology-and-society/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005)                              | [ ]      | 
 
