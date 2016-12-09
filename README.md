@@ -1,5 +1,7 @@
 # Learn Computer Science at Home
 ## MIT Open Courseware
+Full details available on [ocw.mit.edu](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
+
 ### Undergraduate Courses
 | Course       |                                                                                                   | Complete | 
 |-------------:|---------------------------------------------------------------------------------------------------|:--------:| 
@@ -106,3 +108,5 @@
 | STS.035      | [The History of Computing](https://ocw.mit.edu/courses/science-technology-and-society/sts-035-the-history-of-computing-spring-2004)                                                                          |          | 
 | STS.067      | [Scientific Visualization across Disciplines: A Critical Introduction](https://ocw.mit.edu/courses/science-technology-and-society/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005)                              |          | 
 
+### Graduate
+Coming soon
