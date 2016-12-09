@@ -3,7 +3,7 @@
 ### Undergraduate Courses
 | Course       |                                                                                                   | Complete | 
 |-------------:|---------------------------------------------------------------------------------------------------|:--------:| 
-| 1.00         | Introduction to Computers and Engineering Problem Solving                                         | [ ]    | 
+| 1.00         | Introduction to Computers and Engineering Problem Solving                                         | [ ]      | 
 | 1.017        | Computing and Data Analysis for Environmental Applications                                        | [ ]      | 
 | 2.086        | Numerical Computation for Mechanical Engineers (Fall 2014)                                        | [ ]      | 
 | 2.086        | Numerical Computation for Mechanical Engineers (Spring 2013)                                      | [ ]      | 
